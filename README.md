@@ -1,6 +1,6 @@
 
 *] Nama Aplikasi : MoveE <br><br>
-*] Link File APK release dari Aplikasi : https://drive.google.com/open?id=0BwIVbWBBbNgiNzRVOVV1M1hCS00 <br><br>
+*] Link File APK release dari Aplikasi : https://drive.google.com/open?id=0BwIVbWBBbNgiVFFOWGlTY1FTLUE <br><br>
 *] Identitas Siswa : <br>
 Nama lengkap : Nur Izza Lutful Rizqiani <br>
 Kelas / No urut : XI RPL 4 / 28 <br>
@@ -13,9 +13,20 @@ SMK Telkom Malang <br><br>
 *] Deskripsi singkat dari aplikasi :<br> Aplikasi ini adalah aplikasi untuk meihat film apa yang hari ini sedang di tayangkan. Aplikasi ini bernama MoveE. Kenapa MoveE karena aplikasi ini memninadhkan informasi film yang sedang tampil ke smartphone kita. Sehingga kita tidak perlu lagi bingung harus membuaka website<br>
 *] Kelebihan dari Aplikasi : Ini memudahakan kita untuk melihat informasi film-film<br>
 *] Screenshot dari Aplikasi :<br>
-![screenshot_2017-05-15-08-25-27](https://cloud.githubusercontent.com/assets/22131898/26039873/e708e744-3949-11e7-83f8-1d2148346a34.png)
-![screenshot_2017-05-15-08-25-32](https://cloud.githubusercontent.com/assets/22131898/26039875/e7c248c4-3949-11e7-8d4d-8e01771da3b8.png)
-![screenshot_2017-05-15-08-25-47](https://cloud.githubusercontent.com/assets/22131898/26039874/e7befaca-3949-11e7-98cd-731ba8d65b84.png)
-![screenshot_2017-05-15-08-25-53](https://cloud.githubusercontent.com/assets/22131898/26039877/e8e5d522-3949-11e7-8d9d-405f57acf507.png)
-![screenshot_2017-05-15-08-25-57](https://cloud.githubusercontent.com/assets/22131898/26039878/e9098d46-3949-11e7-8e92-ff65a9cc3f12.png)
-![screenshot_2017-05-15-08-38-11](https://cloud.githubusercontent.com/assets/22131898/26039879/ea3a8aa8-3949-11e7-9f00-2ce80757e477.png)
+
+![screenshot_2017-06-13-11-12-48](https://user-images.githubusercontent.com/22131898/27065746-66ea9066-5029-11e7-8099-ca94facb4e83.png)
+![screenshot_2017-06-13-11-12-51](https://user-images.githubusercontent.com/22131898/27065745-66e836fe-5029-11e7-849d-4b1af41e83ea.png)
+![screenshot_2017-06-13-11-12-59](https://user-images.githubusercontent.com/22131898/27065747-66ed3294-5029-11e7-95ac-38d3bc3a29a7.png)
+![screenshot_2017-06-13-11-12-15](https://user-images.githubusercontent.com/22131898/27065748-66ff196e-5029-11e7-8738-3fba86858934.png)
+![screenshot_2017-06-13-11-12-20](https://user-images.githubusercontent.com/22131898/27065749-671e8e8e-5029-11e7-868e-2ad95407272b.png)
+![screenshot_2017-06-13-11-12-24](https://user-images.githubusercontent.com/22131898/27065750-67287476-5029-11e7-93f1-1468da9728e5.png)
+![screenshot_2017-06-13-11-12-28](https://user-images.githubusercontent.com/22131898/27065751-6733d9d8-5029-11e7-83a9-f103c1d61663.png)
+![screenshot_2017-06-13-11-12-32](https://user-images.githubusercontent.com/22131898/27065752-6737f14e-5029-11e7-9e49-231252485bc2.png)
+
+
+
+
+
+
+
+
