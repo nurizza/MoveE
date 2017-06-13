@@ -99,6 +99,16 @@ public class MainActivity extends AppCompatActivity
             // Handle the camera action
             fragment = new NowPlayingFragment();
             setTitle("Now Playing");
+
+
+        } else if (id == R.id.nav_gallery) {
+            fragment = new ComingSoonFragment();
+            setTitle("Coming Soon");
+
+        } else if (id == R.id.nav_top) {
+            fragment = new TopFragment();
+            setTitle("Top");
+
         }
 
         getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commitNow();

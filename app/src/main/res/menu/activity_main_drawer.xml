@@ -6,6 +6,14 @@
             android:id="@+id/nav_camera"
             android:icon="@drawable/ic_play_arrow_black_24dp"
             android:title="Now Playing" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_done_black_24dp"
+            android:title="Coming Soon" />
+        <item
+            android:id="@+id/nav_top"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Top" />
 
     </group>
 
