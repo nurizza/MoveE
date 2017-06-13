@@ -9,7 +9,7 @@ Angkatan : 24 <br>
 SMK Telkom Malang <br><br>
 *] Alamat API yang digunakan pada Aplikasi : The Movie Database (TMDb) API <br>
 *] Jenis Navigasi yang digunakan pada Aplikasi : Navigation Drawer <br>
-*] Library dari Local Database yang digunakan pada Aplikasi : SQLite dasar
+*] Library dari Local Database yang digunakan pada Aplikasi : SQLite dasar<br>
 *] Deskripsi singkat dari aplikasi :<br> Aplikasi ini adalah aplikasi untuk meihat film apa yang hari ini sedang di tayangkan. Aplikasi ini bernama MoveE. Kenapa MoveE karena aplikasi ini memninadhkan informasi film yang sedang tampil ke smartphone kita. Sehingga kita tidak perlu lagi bingung harus membuaka website<br>
 *] Kelebihan dari Aplikasi : Ini memudahakan kita untuk melihat informasi film-film<br>
 *] Screenshot dari Aplikasi :<br>
